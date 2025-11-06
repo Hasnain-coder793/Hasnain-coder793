@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasnain javed</h1>
-<h3 align="center">A passionate Frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 <img 
   align="right" 
   alt="coding" 
