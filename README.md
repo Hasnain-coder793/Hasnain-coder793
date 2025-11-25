@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **Framer motion and other animation libraries for react**
+- 🌱 I’m currently learning **Framer motion  (animation libraries for react)**
 
 - 📫 How to reach me **hasnainjaved508@gmail.com**
 
