@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **React.js and Redux Tool kit**
+- 🌱 I’m currently learning **Framer motion and other animation libraries for react**
 
 - 📫 How to reach me **hasnainjaved508@gmail.com**
 
